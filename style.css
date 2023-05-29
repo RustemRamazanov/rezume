@@ -149,3 +149,12 @@ color:#292a2b
     font-family: inherit;
     border-radius: 10px;
 }
+.card{
+    border-radius: 15px;
+    /* color:antiquewhite; */
+    background: rgb(228, 250, 242);
+    padding: 15px;
+    margin: 10px;
+
+
+}
